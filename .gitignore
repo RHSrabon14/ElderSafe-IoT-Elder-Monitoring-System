@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Docker data
+postgres_data/
+mosquitto/data/
+mosquitto/log/
